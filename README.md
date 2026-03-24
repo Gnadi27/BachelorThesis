@@ -34,5 +34,4 @@ To complement the workflow-level concept, **Figure 10** shows an example of a **
 ## Contents
 
 - `Bachelor Thesis.pdf` – main thesis document
-- `images/figure_6.png` – workflow-level overview of the proposed concept
-- `images/figure_10.png` – example Difference Graph from the thesis
+- `readme_imgs/` – images taken from main thesis document and used in this README.md
